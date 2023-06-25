@@ -1,2 +1,4 @@
 # react-spring-transition-chain
-Created with CodeSandbox
+@react-spring/web animations chain. Created with CodeSandbox.
+
+![](thumbnail.png)
